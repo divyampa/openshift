@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gogs for OpenShift
 Gogs is the Go Git service. Learn more about it at https://gogs.io/
 
@@ -39,3 +40,7 @@ After Gogs deployment, the first registered user will be admin. The default admi
 
 
 
+=======
+# openshift
+do280
+>>>>>>> d2c845bcb0769def59ad013de4957a2f2068f376
